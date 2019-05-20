@@ -5,6 +5,6 @@ USE restapi
 CREATE TABLE numbers 
 (
 id INTEGER AUTO_INCREMENT,
-number INTEGER,
+numbers INTEGER,
 PRIMARY KEY (id)
 )
